@@ -1,0 +1,7 @@
+C:\Users\Mudasir\source\repos\login_page\bin\Debug\login_page.exe.config
+C:\Users\Mudasir\source\repos\login_page\bin\Debug\login_page.exe
+C:\Users\Mudasir\source\repos\login_page\bin\Debug\login_page.pdb
+C:\Users\Mudasir\source\repos\login_page\obj\Debug\login_page.csproj.AssemblyReference.cache
+C:\Users\Mudasir\source\repos\login_page\obj\Debug\login_page.csproj.CoreCompileInputs.cache
+C:\Users\Mudasir\source\repos\login_page\obj\Debug\login_page.exe
+C:\Users\Mudasir\source\repos\login_page\obj\Debug\login_page.pdb

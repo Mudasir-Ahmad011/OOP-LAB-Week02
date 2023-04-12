@@ -1,0 +1,7 @@
+C:\Users\Mudasir\source\repos\Week02 OOP LAB\bin\Debug\Week02 OOP LAB.exe.config
+C:\Users\Mudasir\source\repos\Week02 OOP LAB\bin\Debug\Week02 OOP LAB.exe
+C:\Users\Mudasir\source\repos\Week02 OOP LAB\bin\Debug\Week02 OOP LAB.pdb
+C:\Users\Mudasir\source\repos\Week02 OOP LAB\obj\Debug\Week02 OOP LAB.csproj.AssemblyReference.cache
+C:\Users\Mudasir\source\repos\Week02 OOP LAB\obj\Debug\Week02 OOP LAB.csproj.CoreCompileInputs.cache
+C:\Users\Mudasir\source\repos\Week02 OOP LAB\obj\Debug\Week02 OOP LAB.exe
+C:\Users\Mudasir\source\repos\Week02 OOP LAB\obj\Debug\Week02 OOP LAB.pdb
